@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 14 |
+| 56 | 15 |
 
 ---
 
@@ -16,10 +16,11 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (6)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (39)
 - [math](#math) (11)
 - [shortest paths](#shortest-paths) (1)
@@ -64,6 +65,12 @@
 | 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1780A | [Hayato and School](https://codeforces.com/contest/1780/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1780/A%20-%20Hayato%20and%20School/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -97,6 +104,7 @@
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1778A | [Flip Flop Sum](https://codeforces.com/contest/1778/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1778/A%20-%20Flip%20Flop%20Sum/solution.cpp) |
 | 1780A | [Hayato and School](https://codeforces.com/contest/1780/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1780/A%20-%20Hayato%20and%20School/solution.cpp) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 
 ### implementation
 
