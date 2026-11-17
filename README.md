@@ -6,23 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 11 |
+| 50 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (4)
-- [dp](#dp) (1)
+- [Uncategorized](#uncategorized) (1)
+- [brute force](#brute-force) (6)
+- [constructive algorithms](#constructive-algorithms) (6)
+- [dp](#dp) (2)
+- [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (27)
-- [math](#math) (8)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (36)
+- [math](#math) (10)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (10)
+- [strings](#strings) (12)
 
 ---
 
@@ -32,6 +34,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 104002B | [William and Kitty Pebbles](https://codeforces.com/contest/104002/problem/B) | Unrated | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/104002/B%20-%20William%20and%20Kitty%20Pebbles/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -40,13 +48,16 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 1702A | [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1702/A%20-%20Round%20Down%20the%20Price/solution.cpp) |
 | 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1780A | [Hayato and School](https://codeforces.com/contest/1780/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1780/A%20-%20Hayato%20and%20School/solution.cpp) |
@@ -55,7 +66,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1686B | [Odd Subarrays](https://codeforces.com/contest/1686/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1686/B%20-%20Odd%20Subarrays/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 
 ### graph matchings
 
@@ -70,6 +88,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1686B | [Odd Subarrays](https://codeforces.com/contest/1686/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1686/B%20-%20Odd%20Subarrays/solution.cpp) |
 | 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
@@ -88,25 +107,34 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/520/A%20-%20Pangram/solution.c) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1778A | [Flip Flop Sum](https://codeforces.com/contest/1778/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1778/A%20-%20Flip%20Flop%20Sum/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
+| 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1791/B%20-%20Following%20Directions/solution.cpp) |
 
 ### math
 
@@ -114,8 +142,10 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1735A | [Working Week](https://codeforces.com/contest/1735/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1735/A%20-%20Working%20Week/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
@@ -145,7 +175,9 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/520/A%20-%20Pangram/solution.c) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/MuhitulIslam-ux/My-Codeforces-submissions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 
 ---
